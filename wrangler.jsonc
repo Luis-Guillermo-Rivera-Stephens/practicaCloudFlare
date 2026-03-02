@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "my-svelte-app",
+	"name": "my-svelte-app-prod",
 	"main": "src/index.js",
 	"compatibility_date": "2026-02-19",
 	"compatibility_flags": [
